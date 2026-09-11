@@ -1,4 +1,4 @@
-# Set up of Rosetta 
+# This is V.1, uses open source rules, and is a work in progress. Lmk if you have any feedback
 
 This is a plain, step-by-step walkthrough for getting Rosetta running
 locally, written for someone doing it for the first time. If you just want
